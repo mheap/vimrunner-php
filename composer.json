@@ -1,0 +1,17 @@
+{
+    "name": "mheap/vimrunner-php",
+    "description": "Control Vim using PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Heap",
+            "email": "m@michaelheap.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vimrunner\\": "src/Vimrunner"
+        }
+    }
+}
